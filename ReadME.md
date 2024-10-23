@@ -40,7 +40,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 ## How to Run
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/e-commerce-analysis.git
+   git clone https://github.com/CodeNobility/Exploratory_data_analysis.git
    ```
 2. **Install dependencies:** Make sure all the required Python libraries are installed.
 3. **Launch Jupyter Notebook:**
